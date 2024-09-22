@@ -214,4 +214,12 @@
 
     <!-- Back haptic feedback -->
     <string name="back_gesture_haptic_title">Back haptic feedback</string>
+
+    <!-- Circle to Search -->
+    <string name="search_gesture_category_title">Search</string>
+    <string name="search_gesture_feature_summary">Touch and hold the Home button or the navigation handle to search using the content on your screen.</string>
+    <string name="search_gesture_feature_title">Circle to Search</string>
+    <string name="search_menu">Search settings</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_settings">Search</string>
 </resources>
